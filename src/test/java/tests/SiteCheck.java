@@ -21,6 +21,8 @@ public class SiteCheck {
 		System.out.println(driver.getTitle());
 		Assert.assertTrue(str.contains("Selenium Easy Demo"));
 		
+		System.out.println("sample");
+		
 		
 	}
 
